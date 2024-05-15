@@ -48,7 +48,7 @@ ngOnInit(): void {
   ,git:"https://github.com/aishaa89/Daniels.git",icon:"fa-solid fa-user-tie"},
   {id:10,img:"assets/Devfolio.JPG",h2:"DevFolio",p:"Using HTML5 , CSS3 , Bootstrap",demo:"https://aishaa89.github.io/DevFolio/"
   ,git:"https://github.com/aishaa89/DevFolio.git",icon:"fa-solid fa-user-tie"},
-  {id:11,img:"assets/fokir.JPG",h2:"Fokir",p:"Using Html,css, HTML5 , CSS3,animation",demo:"https://aishaa89.github.io/Fokir-page/"
+  {id:11,img:"assets/fokir.JPG",h2:"Fokir",p:"Using  HTML5 , CSS3,animation",demo:"https://aishaa89.github.io/Fokir-page/"
   ,git:"https://github.com/aishaa89/Fokir-page.git",icon:"fa-solid fa-user-tie"},
 ]
 
