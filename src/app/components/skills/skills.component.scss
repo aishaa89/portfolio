@@ -1,0 +1,13 @@
+// $text-color:white;
+
+// h3,p,i,h6{
+//     color: $text-color;
+   
+// }
+.skill{
+    transition: all 1s;
+}
+.skill:hover{
+    transform:rotateZ(30deg) scale(0.5);
+
+}
