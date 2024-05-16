@@ -6,8 +6,8 @@
 // }
 .skill{
     transition: all 1s;
-}
-.skill:hover{
+
+&:hover{
     transform:rotateZ(30deg) scale(0.5);
 
-}
+}}
